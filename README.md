@@ -5,3 +5,5 @@ Sachin M Machakanura.
 
 This repository is used to build a Bash-based CLI for common operational tasks.
 
+echo "# System check validates CPU, disk, memory"
+
