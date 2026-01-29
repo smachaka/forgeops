@@ -11,7 +11,7 @@ case "$COMMAND" in
     bash features/check/check.sh
     ;;
   *)
-    echo "ForgeOps CLI"
+    echo "ForgeOps CLI - System tools"
     echo "Usage: forgeops [check|backup|deploy|cleanup|version]"
     ;;
 esac
