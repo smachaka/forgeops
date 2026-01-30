@@ -5,7 +5,7 @@ COMMAND=$1
 
 case "$COMMAND" in
   version)
-    cat VERSION
+    cat VERSION && echo
     ;;
   check)
     bash features/check/check.sh
