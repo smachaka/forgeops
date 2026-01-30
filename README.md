@@ -5,7 +5,7 @@ Git workflows using simple DevOps-style tool.
 
 ---
 
-## 🎯 Project Goal
+## Project Goal
 
 The goal of ForgeOps is to understand Git by:
 - Working with real branches
