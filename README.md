@@ -1,11 +1,29 @@
-# ForgeOps
+# ForgeOps 
 
-ForgeOps is a personal DevOps automation project created and maintained by  
-Sachin M Machakanura.
+ForgeOps is a Bash-based CLI project created to demonstrate
+Git workflows using simple DevOps-style tool.
 
-This repository is used to build a Bash-based CLI for common operational tasks.
+---
 
-echo "# System check validates CPU, disk, memory"
+## 🎯 Project Goal
 
-# Rebase demo
-This section demonstrates git rebase clearly.
+The goal of ForgeOps is to understand Git by:
+- Working with real branches
+- Creating pull requests
+- Resolving conflicts
+- Managing releases
+- Maintaining clean history
+
+All Git actions in this repository are intentional and instructional.
+
+---
+
+## What ForgeOps Is
+
+ForgeOps simulates a small operational CLI commonly found in DevOps environments.
+
+Example commands:
+```bash
+forgeops version
+forgeops check
+
