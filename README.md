@@ -13,6 +13,7 @@ The goal of ForgeOps is to understand Git by:
 - Resolving conflicts
 - Managing releases
 - Maintaining clean history
+- Implementing CI pipeline using GitHub Actions
 
 All Git actions in this repository are intentional and instructional.
 
@@ -26,4 +27,5 @@ Example commands:
 ```bash
 forgeops version
 forgeops check
+forgeops backup $directory
 
