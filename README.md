@@ -17,6 +17,8 @@ The goal of ForgeOps is to understand Git by:
 
 All Git actions in this repository are intentional and instructional.
 
+Note: Feature branches are intentionally not deleted after merging into main to preserve branch history for learning, auditing, and reference purposes.
+
 ---
 
 ## What ForgeOps Is
